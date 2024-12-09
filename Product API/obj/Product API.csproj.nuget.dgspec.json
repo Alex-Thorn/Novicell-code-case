@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Documents\\GitHub\\Product API\\Product API\\Product API\\Product API.csproj": {}
+    "C:\\Users\\Alex\\Documents\\GitHub\\Novicell-code-case\\Product API\\Product API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Documents\\GitHub\\Product API\\Product API\\Product API\\Product API.csproj": {
+    "C:\\Users\\Alex\\Documents\\GitHub\\Novicell-code-case\\Product API\\Product API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Product API\\Product API\\Product API\\Product API.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Novicell-code-case\\Product API\\Product API.csproj",
         "projectName": "Product API",
-        "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Product API\\Product API\\Product API\\Product API.csproj",
+        "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Novicell-code-case\\Product API\\Product API.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Product API\\Product API\\Product API\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Novicell-code-case\\Product API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
