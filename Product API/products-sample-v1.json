@@ -1,0 +1,243 @@
+[
+    {
+      "Id": "el-01",
+      "Title": "UltraThin Laptop",
+      "Price": 999.99,
+      "Description": "A sleek and powerful laptop for all your computing needs.",
+      "Category": "cat-01",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-02",
+      "Title": "Smart Watch Pro",
+      "Price": 199.99,
+      "Description": "Stay connected on the go with this smart watch.",
+      "Category": "cat-04",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-03",
+      "Title": "Noise Cancelling Headphones",
+      "Price": 149.99,
+      "Description": "Experience music without distractions.",
+      "Category": "cat-05",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-04",
+      "Title": "4K UHD Television",
+      "Price": 799.99,
+      "Description": "Enjoy your favorite shows in stunning 4K resolution.",
+      "Category": "cat-08",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-05",
+      "Title": "Smartphone XL",
+      "Price": 899.99,
+      "Description": "A high-performance smartphone with a large display.",
+      "Category": "cat-02",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-06",
+      "Title": "Bluetooth Speaker",
+      "Price": 49.99,
+      "Description": "Portable speaker with great sound quality.",
+      "Category": "cat-05",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-07",
+      "Title": "Tablet Pro",
+      "Price": 599.99,
+      "Description": "A powerful tablet for work and play.",
+      "Category": "cat-03",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-08",
+      "Title": "Gaming Console X",
+      "Price": 499.99,
+      "Description": "Next-gen gaming experience.",
+      "Category": "cat-06",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-09",
+      "Title": "Wireless Earbuds",
+      "Price": 99.99,
+      "Description": "Convenient and compact wireless earbuds.",
+      "Category": "cat-05",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-10",
+      "Title": "Smart Home Hub",
+      "Price": 129.99,
+      "Description": "Control all your smart home devices with ease.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-11",
+      "Title": "Digital Camera",
+      "Price": 549.99,
+      "Description": "Capture stunning photos and vIdeos.",
+      "Category": "cat-09",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-12",
+      "Title": "E-Reader",
+      "Price": 129.99,
+      "Description": "Read your favorite books anywhere.",
+      "Category": "cat-11",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-13",
+      "Title": "Fitness Tracker",
+      "Price": 79.99,
+      "Description": "Monitor your health and activities.",
+      "Category": "cat-04",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-14",
+      "Title": "VR Headset",
+      "Price": 299.99,
+      "Description": "Immerse yourself in virtual reality.",
+      "Category": "cat-06",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-15",
+      "Title": "Smart Light Bulbs",
+      "Price": 39.99,
+      "Description": "Control your lighting with your voice.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-16",
+      "Title": "Robot Vacuum",
+      "Price": 199.99,
+      "Description": "Keep your floors clean effortlessly.",
+      "Category": "cat-12",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-17",
+      "Title": "Wireless Charger",
+      "Price": 29.99,
+      "Description": "Charge your devices wirelessly.",
+      "Category": "cat-13",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-18",
+      "Title": "Smart Thermostat",
+      "Price": 199.99,
+      "Description": "Control your home's temperature remotely.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-19",
+      "Title": "Drone Pro",
+      "Price": 499.99,
+      "Description": "Capture aerial footage with ease.",
+      "Category": "camera",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-20",
+      "Title": "Gaming Mouse",
+      "Price": 49.99,
+      "Description": "Precision and comfort for gamers.",
+      "Category": "cat-06",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-21",
+      "Title": "Electric Scooter",
+      "Price": 299.99,
+      "Description": "Eco-friendly transportation.",
+      "Category": "cat-17",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-22",
+      "Title": "Bluetooth Keyboard",
+      "Price": 59.99,
+      "Description": "Portable and convenient typing.",
+      "Category": "cat-13",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-23",
+      "Title": "Home Security Camera",
+      "Price": 149.99,
+      "Description": "Keep an eye on your home.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-24",
+      "Title": "Portable Power Bank",
+      "Price": 39.99,
+      "Description": "Charge your devices on the go.",
+      "Category": "cat-13",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-25",
+      "Title": "Smart Doorbell",
+      "Price": 99.99,
+      "Description": "See who's at the door from anywhere.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-26",
+      "Title": "Electric Toothbrush",
+      "Price": 79.99,
+      "Description": "Advanced dental care.",
+      "Category": "cat-12",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-27",
+      "Title": "Smart Plug",
+      "Price": 29.99,
+      "Description": "Control any device from your phone.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-28",
+      "Title": "Smart Mirror",
+      "Price": 499.99,
+      "Description": "A mirror that helps you stay connected.",
+      "Category": "cat-07",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-29",
+      "Title": "High Speed Router",
+      "Price": 199.99,
+      "Description": "Blazing fast internet speeds.",
+      "Category": "cat-10",
+      "Image": "https://placehold.co/500x500"
+    },
+    {
+      "Id": "el-30",
+      "Title": "Wireless Gamepad",
+      "Price": 59.99,
+      "Description": "Enhanced gaming control.",
+      "Category": "cat-06",
+      "Image": "https://placehold.co/500x500"
+    }
+  ]
+  
